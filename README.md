@@ -7,14 +7,14 @@
 <p> JMeter is used to test peformance of the web Application under the load and stress.
 
 <h3>Components of JMeter:-</h3>
-  <p>Threads</p>
-  <p>Config elements</p>  
-  <p>Listener</p>
-  <p>Timers</p>
-  <p>Pre processors</p>
-  <p>Post processors</p>
-  <p>Assertions</p>
-  <p>Test Fragment</p>
-  <p>Non-Test Elements</p>
+  <li>Threads</li>
+  <li>Config elements</li>  
+  <li>Listener</li>
+  <li>Timers</li>
+  <li>Pre processors</li>
+  <li>Post processors</li>
+  <li>Assertions</li>
+  <li>Test Fragment</li>
+  <li>Non-Test Elements</li>
   
 
