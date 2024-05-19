@@ -8,7 +8,7 @@
 
 
 <h3>Components of JMeter:-</h3>
-  <li>Threads</li>
+  <li>Thread Group</li>
   <li>Config elements</li>  
   <li>Listener</li>
   <li>Timers</li>
