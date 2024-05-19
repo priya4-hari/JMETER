@@ -4,6 +4,7 @@
 <p> JMeter is a Java <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="20" height="20">    based Application</p>
 <p></p>JMeter is used to test peformance of the web Application under the load and stress.</p>  
 <p>Web Application : https://petstore.octoperf.com/actions/Catalog.action<br>
+<p>JMeter is Synchronous, Thread based and Script execution Engine</p>
 
   
 
