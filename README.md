@@ -24,7 +24,7 @@
     <p><li>name</li></p>
     <p><li>comments</li></p>
     <p><li>Action to be taken after sample error</li></p>
-      <ul style="list-style-type:🟣">
+      <ul style="list-style-type:circle">
           <li>Continue</li>
           <li>start next thread loop</li>
       </ul>
