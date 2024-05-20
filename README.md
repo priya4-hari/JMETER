@@ -24,6 +24,6 @@
     <li>name</li>
     <li>comments</li>
     <li>Action to be taken after sample error</li><br>
-          <li>Continue</li>
+          <li text-indent:50px; >Continue</li>
           <li>start next thread loop</li>
 
