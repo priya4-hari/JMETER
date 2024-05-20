@@ -19,7 +19,9 @@
   <li>Non-Test Elements</li>
 
 <h4>Thread Groups</h4>
-  <p>Thread Groups are Group of the threads that are executing the same scenario.</p><br>
+<ul>
+  <p>Thread Groups are Group of the threads that are executing the same scenario.</p>
+</ul>
   <p>Thread Groups contains elements like:</p>
     <p><li>name</li></p>
     <p><li>comments</li></p>
