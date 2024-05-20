@@ -29,4 +29,7 @@
       <ul style="list-style-type:circle">
           <li>Continue</li>
           <li>start next thread loop</li>
+          <li>stop thread</li>
+          <li>stop test</li>
+          <li>stop test now</li>
       </ul>
