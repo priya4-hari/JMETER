@@ -21,9 +21,9 @@
 <h4>Thread Groups</h4>
   <p>Thread Groups are Group of the threads that are executing the same scenario.</p><br>
   <p>Thread Groups contains elements like:</p>
-    <li>name</li>
-    <li>comments</li>
-    <li>Action to be taken after sample error</li>
+    <p><li>name</li></p>
+    <p><li>comments</li></p>
+    <p><li>Action to be taken after sample error</li></p>
       <ul style="list-style-type:square">
           <li>Continue</li>
           <li>start next thread loop</li>
