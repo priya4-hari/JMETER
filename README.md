@@ -23,7 +23,7 @@
   <p>Thread Groups contains elements like:</p>
     <li>name</li>
     <li>comments</li>
-    <li>Action to be taken after sample error</li><br>
+    <li>Action to be taken after sample error</li>
       <ul style="list-style-type:square">
           <li>Continue</li>
           <li>start next thread loop</li>
