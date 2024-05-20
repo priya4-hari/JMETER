@@ -24,6 +24,6 @@
     <li>name</li>
     <li>comments</li>
     <li>Action to be taken after sample error</li><br>
-          <ul><li>Continue</li></ul>
+          <li>Continue</li>
           <li>start next thread loop</li>
 
