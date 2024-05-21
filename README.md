@@ -23,9 +23,9 @@
   <p>Thread Groups are Group of the threads that are executing the same scenario.</p>
 </ul>
   <p>Thread Groups contains elements like:</p>
-    <p><li>name</li></p>
-    <p><li>comments</li></p>
-    <p><li>Action to be taken after sample error</li></p>
+    <p><li>1.name</li></p>
+    <p><li>2.comments</li></p>
+    <p><li>3.Action to be taken after sample error</li></p>
       <ul style="list-style-type:circle">
           <li>Continue</li>
           <li>start next thread loop</li>
@@ -33,7 +33,7 @@
           <li>stop test</li>
           <li>stop test now</li>
       </ul>
-      <p><li>Thread Properties</li></p>
+      <p><li>4.Thread Properties</li></p>
         <ul>
           <li>Number of thread(users)</li>
           <li>Ramp-up period(seconds)</li>
