@@ -35,6 +35,7 @@
       </ul>
       <p><li>Thread Properties</li></p>
         <ul>
-          <li>number of thread(users)</li>
+          <li>Number of thread(users)</li>
           <li>Ramp-up period(seconds)</li>
+          <li>Loop count</li>
         </ul>
