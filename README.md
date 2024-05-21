@@ -43,4 +43,6 @@
             <li>Delay thread creation intill needed</li>
             <li>Specify thread lifetime</li>
           </ul>
+          <li>Duration(Seconds)</li>
+          <li>Startup Delay(Seconds)</li>
         </ul>
