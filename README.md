@@ -38,4 +38,7 @@
           <li>Number of thread(users)</li>
           <li>Ramp-up period(seconds)</li>
           <li>Loop count</li>
+          <ul>
+            <li>Same users on each iteration</li>
+          </ul>
         </ul>
