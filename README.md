@@ -41,5 +41,6 @@
           <ul>
             <li>Same users on each iteration</li>
             <li>Delay thread creation intill needed</li>
+            <li>Specify thread lifetime</li>
           </ul>
         </ul>
